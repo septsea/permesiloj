@@ -2,7 +2,7 @@
 
 Here is an **unofficial** translation of the **Zero-Clause BSD License** (0BSD) into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only [the original English text of the license](licenses/0bsd) does that.
 
-If you want to publish your software under the license, create a plain text file named `LICENSE` in the root of your source code, copy the content of [`licenses/0bsd`](licenses/0bsd) into that file, replace the text `[year]` with the current year, and the text `[name]` with the name(s) of the author(s), and save it.
+If you want to publish your work (including but not limited to software) under the license, create a plain text file named `LICENSE` in the project root directory, copy the content of [`licenses/0bsd`](licenses/0bsd) into that file, replace the text `[year]` with the current year, and the text `[name]` with the name(s) of the author(s), and save it.
 
 > Copyright © [year] [name]
 >
@@ -14,7 +14,7 @@ If you want to publish your software under the license, create a plain text file
 
 Jen **neoficiala** traduko de la **Nul-Kondiĉa Permesilo de BSD** (0BSD) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licenses/0bsd) faras tion.
 
-Se vi volas publikigi vian programaron laŭ la permesilo, kreu plattekstan dosieron nomatan `LICENSE` en la radiko de via fontkodo, kopiu la enhavon de [`licenses/0bsd`](licenses/0bsd) en tiun dosieron, anstataŭigu la tekston `[year]` (esperante: jaro) per la nuna jaro, kaj la tekston `[name]` (esperante: nomo) per la nomo(j) de la aŭtoro(j), kaj konservu ĝin.
+Se vi volas publikigi vian verkon (inkluzive de sed ne nur programaro) laŭ la permesilo, kreu plattekstan dosieron nomatan `LICENSE` en la radika dosierujo de la projekto, kopiu la enhavon de [`licenses/0bsd`](licenses/0bsd) en tiun dosieron, anstataŭigu la tekston `[year]` (esperante: jaro) per la nuna jaro, kaj la tekston `[name]` (esperante: nomo) per la nomo(j) de la aŭtoro(j), kaj konservu ĝin.
 
 > Aŭtorrajto © [jaro] [nomo]
 >

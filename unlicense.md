@@ -2,7 +2,7 @@
 
 Here is an **unofficial** translation of the **Unlicense** into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only [the original English text of the license](licenses/UNLICENSE) does that.
 
-If you want to publish your software under the license, create a plain text file named `UNLICENSE` in the root of your source code, copy the content of [`licenses/UNLICENSE`](licenses/UNLICENSE) into that file, and save it.
+If you want to publish your work (including but not limited to software) under the license, create a plain text file named `UNLICENSE` in the project root directory, copy the content of [`licenses/UNLICENSE`](licenses/UNLICENSE) into that file, and save it.
 
 Note that the license is a public domain dedication.
 
@@ -20,7 +20,7 @@ Note that the license is a public domain dedication.
 
 Jen **neoficiala** traduko de la Permesilo **Unlicense** (esperante: senpermesi) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licenses/UNLICENSE) faras tion.
 
-Se vi volas publikigi vian programaron laŭ la permesilo, kreu plattekstan dosieron nomatan `UNLICENSE` en la radiko de via fontkodo, kopiu la enhavon de [`licenses/UNLICENSE`](licenses/UNLICENSE) en tiun dosieron, kaj konservu ĝin.
+Se vi volas publikigi vian verkon (inkluzive de sed ne nur programaro) laŭ la permesilo, kreu plattekstan dosieron nomatan `UNLICENSE` en la radika dosierujo de la projekto, kopiu la enhavon de [`licenses/UNLICENSE`](licenses/UNLICENSE) en tiun dosieron, kaj konservu ĝin.
 
 Notu, ke la permesilo estas dediĉo al la publika havaĵo.
 
