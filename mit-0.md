@@ -1,6 +1,8 @@
 # MIT-0
 
-Here is an **unofficial** translation of the **Mit No Attribution License** (MIT-0) into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only the original English text of the license does that.
+Here is an **unofficial** translation of the **Mit No Attribution License** (MIT-0) into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only [the original English text of the license](licenses/mit-0) does that.
+
+If you want to publish your software under the license, copy the file [`licenses/mit-0`](licenses/mit-0) into the root of your source code, rename it to `LICENSE`, and replace the text `[year]` with the current year, and the text `[name]` with the name(s) of the author(s).
 
 > Copyright [year] [name]
 >
@@ -10,7 +12,9 @@ Here is an **unofficial** translation of the **Mit No Attribution License** (MIT
 
 ---
 
-Jen **neoficiala** traduko de la **Sen-Atribua Permesilo de MIT** (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
+Jen **neoficiala** traduko de la **Sen-Atribua Permesilo de MIT** (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licenses/mit-0) faras tion.
+
+Se vi volas publikigi vian programaron laŭ la permesilo, kopiu la dosieron [`licenses/mit-0`](licenses/mit-0) en la radikon de via fontkodo, alinomu ĝin al `LICENSE`, kaj anstataŭigu la tekston `[year]` (esperante: jaro) per la nuna jaro, kaj la tekston `[name]` (esperante: nomo) per la nomo(j) de la aŭtoro(j).
 
 > Aŭtorrajto [jaro] [nomo]
 >

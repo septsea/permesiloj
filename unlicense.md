@@ -1,8 +1,10 @@
 # Unlicense
 
-Here is an **unofficial** translation of the **Unlicense** into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only the original English text of the license does that.
+Here is an **unofficial** translation of the **Unlicense** into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only [the original English text of the license](licenses/UNLICENSE) does that.
 
-The license is a public domain dedication.
+If you want to publish your software under the license, copy the file [`licenses/UNLICENSE`](licenses/UNLICENSE) into the root of your source code.
+
+Note that the license is a public domain dedication.
 
 > This is free and unencumbered software released into the public domain.
 >
@@ -16,9 +18,11 @@ The license is a public domain dedication.
 
 ---
 
-Jen **neoficiala** traduko de la Permesilo **Unlicense** (esperante: senpermesi) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
+Jen **neoficiala** traduko de la Permesilo **Unlicense** (esperante: senpermesi) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licenses/UNLICENSE) faras tion.
 
-La permesilo estas dediĉo al la publika havaĵo.
+Se vi volas publikigi vian programaron laŭ la permesilo, kopiu la dosieron [`licenses/UNLICENSE`](licenses/UNLICENSE) en la radikon de via fontkodo.
+
+Notu, ke la permesilo estas dediĉo al la publika havaĵo.
 
 > Ĉi tio estas libera kaj senobstakla programaro publikigita en la publikan havaĵon.
 >
