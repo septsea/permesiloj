@@ -10,7 +10,7 @@ Here is an **unofficial** translation of the **Mit No Attribution License** (MIT
 
 ---
 
-Jen **neoficiala** traduko de la **Sen-Atribua Permesilo de MIT** (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli da homoj kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
+Jen **neoficiala** traduko de la **Sen-Atribua Permesilo de MIT** (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
 
 > Aŭtorrajto [jaro] [nomo]
 >

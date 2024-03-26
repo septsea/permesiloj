@@ -16,7 +16,7 @@ The license is a public domain dedication.
 
 ---
 
-Jen **neoficiala** traduko de la Permesilo **Unlicense** (esperante: senpermesi) en Esperanton. Ĝi estas provizita por helpi pli da homoj kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
+Jen **neoficiala** traduko de la Permesilo **Unlicense** (esperante: senpermesi) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur la originala angla teksto de la permesilo faras tion.
 
 La permesilo estas dediĉo al la publika havaĵo.
 
@@ -24,8 +24,8 @@ La permesilo estas dediĉo al la publika havaĵo.
 >
 > Iu ajn estas libera kopii, modifi, publikigi, uzi, kompili, vendi, aŭ distribui ĉi tiun programaron, aŭ en fontkoda formo aŭ kiel kompilitan binaron, por iu ajn celo, komerca aŭ nekomerca, kaj per iu ajn rimedo.
 >
-> En jurisdikcioj, kiuj rekonas aŭtorrajtajn leĝojn, la aŭtoro aŭ aŭtoroj de ĉi tiu programaro dediĉas iun ajn kaj ĉiun aŭtorrajtan intereson en la programaro al la publika havaĵo. Ni faras ĉi tiun dediĉon por la avantaĝo de la ĝenerala publiko kaj por la malutilo de niaj heredantoj kaj posteuloj. Ni intencas ĉi tiun dediĉon esti malkaŝa ago de abandono eterna de ĉiuj nunaj kaj estontaj rajtoj al ĉi tiu programaro laŭ aŭtorrajtleĝo.
+> En jurisdikcioj, kiuj rekonas aŭtorrajtajn leĝojn, la aŭtoro aŭ aŭtoroj de ĉi tiu programaro dediĉas iun ajn kaj ĉiun aŭtorrajtan intereson en la programaro al la publika havaĵo. Ni faras ĉi tiun dediĉon por la avantaĝo de la publiko ĝenerala kaj por la malutilo de niaj heredantoj kaj posteuloj. Ni intencas ĉi tiun dediĉon esti malkaŝa ago de abandono porĉiama de ĉiuj nunaj kaj estontaj rajtoj al ĉi tiu programaro laŭ aŭtorrajtleĝo.
 >
 > **La programaro estas provizita "tiel, kiel estas", sen ia ajn garantio, eksplicita aŭ implicita, inkluzive de, sed ne nur, garantioj de merkatkapableco, taŭgeco por iu ajn celo, kaj nemalobservo. En neniu okazo la aŭtoroj estu respondecaj pri iuj ajn reklamacio, damaĝoj aŭ alia respondeco, ĉu en ago de kontrakto, delikto aŭ alie, sekvantaj el, rezultantaj el aŭ rilataj al la programaro aŭ la uzo aŭ aliaj traktoj en la programaro.**
 >
-> Por pli da informoj, bonvolu konsulti <https://unlicense.org>
+> Por pli multaj informoj, bonvolu konsulti <https://unlicense.org>

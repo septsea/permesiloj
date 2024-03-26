@@ -6,4 +6,4 @@ Here are **unofficial** translations of some licenses into Esperanto. They are p
 
 # Tradukoj de iuj permesiloj en Esperanton
 
-Jen **neoficialaj** tradukoj de iuj permesiloj en Esperanton. Ili estas provizitaj por helpi pli da homoj kompreni la permesilojn. Ili ne estis publikigitaj de la aŭtoroj de la permesiloj, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas unu el la permesilojn—nur la originalaj versioj faras tion.
+Jen **neoficialaj** tradukoj de iuj permesiloj en Esperanton. Ili estas provizitaj por helpi pli multajn homojn kompreni la permesilojn. Ili ne estis publikigitaj de la aŭtoroj de la permesiloj, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas unu el la permesilojn—nur la originalaj versioj faras tion.
