@@ -1,3 +1,3 @@
 Here are the original versions of the licenses.
 
-Jen originalaj versioj de la permesiloj.
+Jen la originalaj versioj de la permesiloj.
