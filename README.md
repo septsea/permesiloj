@@ -1,6 +1,6 @@
-# Translations of some licenses into Esperanto
+# Translations of some licences into Esperanto
 
-Here are **unofficial** translations of some licenses into Esperanto. They are provided to help more people understand the licenses. They were not published by the authors of the licenses, and **do not** legally state the distribution terms for software that uses one of the licenses—only the original versions do that. Always use the original version of the license under which you want to publish your work (including but not limited to software).
+Here are **unofficial** translations of some licences into Esperanto. They are provided to help more people understand the licences. They were not published by the authors of the licences, and **do not** legally state the distribution terms for software that uses one of the licences—only the original versions do that. Always use the original version of the licence under which you want to publish your work (including but not limited to software).
 
 ---
 

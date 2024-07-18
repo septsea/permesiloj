@@ -1,8 +1,8 @@
 # MIT-0
 
-Here is an **unofficial** translation of the [**Mit No Attribution License**](https://opensource.org/license/mit-0) (MIT-0) into Esperanto. It is provided to help more people understand the license. It was not published by the author of the license, and **does not** legally state the distribution terms for software that uses the license—only [the original English text of the license](licenses/mit-0) does that.
+Here is an **unofficial** translation of the [**Mit No Attribution License**](https://opensource.org/license/mit-0) (MIT-0) into Esperanto. It is provided to help more people understand the licence. It was not published by the author of the licence, and **does not** legally state the distribution terms for software that uses the licence—only [the original English text of the licence](licences/mit-0) does that.
 
-If you want to publish your work (including but not limited to software) under the license, create a plain text file named `LICENSE` in the project root directory, copy the content of [`licenses/mit-0`](licenses/mit-0) into that file, replace the text `[year]` with the current year, and the text `[name]` with the name(s) of the author(s), and save it.
+If you want to publish your work (including but not limited to software) under the licence, create a plain text file named `LICENSE` (or `LICENCE`) in the project root directory, copy the content of [`licences/mit-0`](licences/mit-0) into that file, replace the text `[year]` with the current year, and the text `[name]` with the name(s) of the author(s), and save it.
 
 > Copyright [year] [name]
 >
@@ -12,9 +12,9 @@ If you want to publish your work (including but not limited to software) under t
 
 ---
 
-Jen **neoficiala** traduko de la [**Sen-Atribua Permesilo de MIT**](https://opensource.org/license/mit-0) (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licenses/mit-0) faras tion.
+Jen **neoficiala** traduko de la [**Sen-Atribua Permesilo de MIT**](https://opensource.org/license/mit-0) (MIT-0) en Esperanton. Ĝi estas provizita por helpi pli multajn homojn kompreni la permesilon. Ĝi ne estis publikigita de la aŭtoro de la permesilo, kaj **ne** laŭleĝe deklaras la distribukondiĉojn por programaro, kiu uzas la permesilon—nur [la originala angla teksto de la permesilo](licences/mit-0) faras tion.
 
-Se vi volas publikigi vian verkon (inkluzive de sed ne nur programaro) laŭ la permesilo, kreu plattekstan dosieron nomatan `LICENSE` en la radika dosierujo de la projekto, kopiu la enhavon de [`licenses/mit-0`](licenses/mit-0) en tiun dosieron, anstataŭigu la tekston `[year]` (esperante: jaro) per la nuna jaro, kaj la tekston `[name]` (esperante: nomo) per la nomo(j) de la aŭtoro(j), kaj konservu ĝin.
+Se vi volas publikigi vian verkon (inkluzive de sed ne nur programaro) laŭ la permesilo, kreu plattekstan dosieron nomatan `LICENSE` (aŭ `LICENCE`) en la radika dosierujo de la projekto, kopiu la enhavon de [`licences/mit-0`](licences/mit-0) en tiun dosieron, anstataŭigu la tekston `[year]` (esperante: jaro) per la nuna jaro, kaj la tekston `[name]` (esperante: nomo) per la nomo(j) de la aŭtoro(j), kaj konservu ĝin.
 
 > Aŭtorrajto [jaro] [nomo]
 >
